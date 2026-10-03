@@ -47,6 +47,7 @@ Tools to check how well your resume matches a job description before you apply.
 |------|-------|-------------|
 | [CoverCraft ATS Match](https://coverletter-ai-dun.vercel.app/tools/match) | Free | Runs in browser, no signup required |
 | [Jobscan](https://www.jobscan.co/) | Free (5 scans) | Industry standard ATS checker |
+| [ResumeAI](https://withresumeai.com/) | Free (3/day anonymous, 10/day free account) | Free ATS checker + State of ATS 2026 (Workday 37.9%) |
 | [SkillSyncer](https://skillsyncer.com/) | Free tier | Real-time keyword matching |
 | [Resume Worded](https://resumeworded.com/score) | Free (limited) | LinkedIn profile review included |
 
